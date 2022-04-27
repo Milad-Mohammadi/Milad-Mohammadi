@@ -50,3 +50,8 @@ I'm a happy Software EngineerðŸ˜€, Whose main focus is on Android developmentðŸ“
 <a href="mailto:mohammadi.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-4285F4?style=round-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+<!--##
+<p  align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Milad-Mohammadi" alt="visitor badge"/>       
+</p>-->
