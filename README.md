@@ -4,18 +4,22 @@
 
 <p> 
   <a align="right" href="https://github.com/Milad-Mohammadi" align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milad-Mohammadi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://www.github.com/Milad-Mohammadi" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Milad-Mohammadi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
+</a>
   
 I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 5 years of professional activity and working on real world projects ⚒️.
   
-  - 💬 Ask me about **Android**
-  - 🌍  I'm based in Iran
-  - 🔭 I’m currently working on **some freelance projects**
-  - 👯 I’m looking to collaborate on **Open Source Projects**
+  - 💼 Currently an **Android Developer** in a Web and Mobile development company that is fully focused on Real Estate applications and solutions.
+  - 💪 Open for Freelance Android Projects
+  - 🌍 Based in Iran
+  - 🔭 Currently working on **some freelance projects**
+  - 👯 Looking to collaborate on **Open Source Projects**
+  - 🌱 Currently learning **Android Jetpack Compose, Flutter**
+  - 💻 With 4 years' Computer Engineering education and 5 years' development working experience.
   - ⚡ Fun fact: I love Art & Design
-  
-  <a href="https://www.github.com/Milad-Mohammadi" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/Milad-Mohammadi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
-  </a>
+<!--- 📚 Reading **Android Jetpack Compose, Flutter**-->
   
 </p>
 
