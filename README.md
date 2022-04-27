@@ -5,7 +5,8 @@
 <p> 
   <a align="right" href="https://github.com/Milad-Mohammadi" align="left"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milad-Mohammadi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
-  This is some text here
+I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 5 years of professional activity and working on real world projects ⚒️.
+  
   - 💬 Ask me about **Android**
   - 🌍  I'm based in Iran
   - 🔭 I’m currently working on **some freelance projects**
