@@ -24,6 +24,12 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin   2 hrs 30 mins   █████████████████▒░░░░░░░   69.63 %
+XML      1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   30.37 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/><br/>
