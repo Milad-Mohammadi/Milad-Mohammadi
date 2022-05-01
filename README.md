@@ -23,6 +23,10 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
   
 </p>
 
+<br/><br/>
+
+### 🧑‍💻 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 
 ```text
