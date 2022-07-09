@@ -30,7 +30,7 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Kotlin   18 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
