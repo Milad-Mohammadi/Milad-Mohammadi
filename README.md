@@ -17,7 +17,7 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
   - 🔭 Currently working on **some freelance projects**
   - 👯 Looking to collaborate on **Open Source Projects**
   - 🌱 Currently learning **Android Jetpack Compose, Flutter**
-  - 💻 With 4 years' Computer Engineering education and 5 years' development working experience.
+  - 💻 With 4 years' Computer Engineering education and 6 years' development working experience.
   - ⚡ Fun fact: I love Art & Design
 <!--- 📚 Reading **Android Jetpack Compose, Flutter**-->
   
