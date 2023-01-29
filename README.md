@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/Milad-Mohammadi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
 </a>
   
-I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 5 years of professional activity and working on real world projects ⚒️.
+I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 7 years of professional activity and working on real world projects ⚒️.
   
   - 💼 Currently an **Android Developer** in <a href="https://realtypack.com/">RealtyPack</a>, fully focused on Real Estate applications and solutions.
   - 💪 Open for Freelance Android Projects
