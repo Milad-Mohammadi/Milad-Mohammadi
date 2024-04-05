@@ -30,7 +30,9 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         4 mins          ██████████████▓░░░░░░░░░░   58.22 %
+TypeScript   3 mins          █████████▒░░░░░░░░░░░░░░░   37.46 %
+JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
