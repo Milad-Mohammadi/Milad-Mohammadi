@@ -30,7 +30,7 @@ I'm a happy Software Engineer😀, Whose main focus is on Android development�
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
