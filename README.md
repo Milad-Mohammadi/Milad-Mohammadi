@@ -9,16 +9,14 @@
   <img src="https://img.shields.io/github/followers/Milad-Mohammadi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
 </a>
   
-I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 7 years of professional activity and working on real world projects ⚒️.
+I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 8 years of professional activity and working on real-world projects ⚒️.
   
-  - 💼 Ex-**Android Developer** in <a href="https://realtypack.com/">RealtyPack</a>, fully focused on Real Estate applications and solutions.
+  - 💼 Ex-**Android Developer** in <a href="https://realtyna.com/">Realtyna</a>, fully focused on Real Estate applications and solutions.
   - 💪 Open for Freelance Android Projects
   - 🌍 Based in Iran
   - 🔭 Currently working on **some freelance projects**
   - 👯 Looking to collaborate on **Open Source Projects**
-  - 🌱 Currently learning **Android Jetpack Compose, Flutter**
-  - 💻 With 4 years' Computer Engineering education and 6 years' development working experience.
-  - ⚡ Fun fact: I love Art & Design
+  - 💻 With 4 years of computer Engineering education and 6 years of development working experience.
 <!--- 📚 Reading **Android Jetpack Compose, Flutter**-->
   
 </p>
