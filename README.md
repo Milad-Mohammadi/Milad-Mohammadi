@@ -8,7 +8,7 @@
 <a href="https://www.github.com/Milad-Mohammadi" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/Milad-Mohammadi?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" />
 </a>
-  
+
 I'm a happy Software Engineer😀, Whose main focus is on Android development📱, I have 4 years of experience studying computer engineering 🎓, and 8 years of professional activity and working on real-world projects ⚒️.
   
   - 💼 Ex-**Android Developer** in <a href="https://realtyna.com/">Realtyna</a>, fully focused on Real Estate applications and solutions.
@@ -45,20 +45,24 @@ No activity tracked
 <a href="https://www.linkedin.com/in/vimilad/"> 
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white" alt="Linkedin" /> 
 </a>
+<br/>
 <a href="https://twitter.com/vimiladi">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=round-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/-X-000000?style=round-square&logo=x&logoColor=white" alt="Twitter" />
 </a>
+<br/>
 <a href="https://www.instagram.com/vimilad/">
   <img src="https://img.shields.io/badge/-Instagram-8a3ab9?style=round-square&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+<br/>
 <a href="https://stackoverflow.com/users/9764331/milad-mohammadi">
   <img src="https://img.shields.io/badge/-Stackoverflow-F48024?style=round-square&logo=stackoverflow&logoColor=white" alt="Stackoverflow" />
 </a>
+<br/>
 <a href="mailto:mohammadi.dev@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-4285F4?style=round-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<!--##
-<p  align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Milad-Mohammadi" alt="visitor badge"/>       
-</p>-->
+##
+<a href="https://visitcount.itsvg.in"  align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Milad-Mohammadi&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
