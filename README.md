@@ -1,5 +1,3 @@
-<img src="assets/header.png" alt="Milad Mohammadi Header" />
-
 # 👋 Hi, I'm Milad Mohammadi
 
 I'm an **Android Developer** with **9 years** of experience building high-performance, scalable, and user-friendly applications. My expertise spans **Kotlin, Java, Jetpack Compose, and modern Android architectures**, ensuring robust solutions for both startups and enterprises.
@@ -28,16 +26,14 @@ I'm an **Android Developer** with **9 years** of experience building high-perfor
 
 ---
 
-## 📈 **GitHub Stats**
-<a href="http://www.github.com/Milad-Mohammadi"><img src="https://github-readme-stats.vercel.app/api?username=Milad-Mohammadi&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true" alt="Milad-Mohammadi's GitHub stats" /></a>
-
-<a href="http://www.github.com/Milad-Mohammadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milad-Mohammadi&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🌍 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimilad/)
+[![Twitter](https://img.shields.io/twitter/follow/vimiladi)](https://twitter.com/vimiladi)
+[![Instagram](https://img.shields.io/badge/-Instagram-8a3ab9?logo=instagram&logoColor=white)](https://www.instagram.com/vimilad/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9764331/milad-mohammadi)
+[![Email](https://img.shields.io/badge/-Gmail-4285F4?logo=gmail&logoColor=white)](mailto:mohammadi.dev@gmail.com)
 
 ---
 
-## 🌍 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimilad/)
-[![Twitter](https://img.shields.io/badge/-X-000000?style=round-square&logo=x&logoColor=white)](https://twitter.com/vimiladi)
-[![Instagram](https://img.shields.io/badge/-Instagram-8a3ab9?style=round-square&logo=instagram&logoColor=white)](https://www.instagram.com/vimilad/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=round-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9764331/milad-mohammadi)
-[![Email](https://img.shields.io/badge/-Gmail-4285F4?style=round-square&logo=gmail&logoColor=white)](mailto:mohammadi.dev@gmail.com)
+## 🔥 **GitHub Profile Stats**
+![GitHub Followers](https://img.shields.io/github/followers/milad-mohammadi)
