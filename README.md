@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Milad Mohammadi
 
 I'm an **Android Developer** with **9 years** of experience building high-performance, scalable, and user-friendly applications. My expertise spans **Kotlin, Java, Jetpack Compose, and modern Android architectures**, ensuring robust solutions for both startups and enterprises.
+### **[Visit My Website](https://vimilad.com)**
 
 ---
 
@@ -32,6 +33,10 @@ I'm an **Android Developer** with **9 years** of experience building high-perfor
 [![Instagram](https://img.shields.io/badge/-Instagram-8a3ab9?logo=instagram&logoColor=white)](https://www.instagram.com/vimilad/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9764331/milad-mohammadi)
 [![Email](https://img.shields.io/badge/-Gmail-4285F4?logo=gmail&logoColor=white)](mailto:mohammadi.dev@gmail.com)
+
+---
+
+![Metrics](https://metrics.lecoq.io/Milad-Mohammadi)
 
 ---
 
